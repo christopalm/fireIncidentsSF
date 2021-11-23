@@ -6,7 +6,7 @@ https://data.sfgov.org/Public-Safety/Fire-Incidents/wr8u-xric
 
 ## Requeriments to run the ETL and Reports
 
-1. You need to install or access Jupyter Notebooks (you can use Anaconda to run Jupypter Notebooks locally in your computer. [Anaconda Site](https://www.anaconda.com/)
+1. You need to install or access Jupyter Notebooks (you can use Anaconda to run Jupypter Notebooks locally in your computer. [Anaconda Site](https://www.anaconda.com/))
 2. Python 3.9 (Anaconda already contains a Python version)
     - pyodbc library (conda install pyodbc)
     - pip (conda install pip)
