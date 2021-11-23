@@ -30,3 +30,6 @@ For this initial release the star schema was selected, but it's possible to crea
 
 ## Some reports
 ![generalReport](/images/generalReport.PNG)
+
+# Dimensions
+Check the SQL Script in scripts
